@@ -169,7 +169,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://github.com/Aayush894/My-Portfolio/blob/main/images/backgroundportfolio.jpg") no-repeat center;
+    background: url("./images/backgroundportfolio.jpg") no-repeat center;
     height: 100vh;
     color: white;
     min-height: 500px;
